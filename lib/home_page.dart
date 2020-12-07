@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_stepper/stepper/custom_stepper.dart';
+
+import 'stepper/custom_stepper.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);
